@@ -2,9 +2,13 @@
 本项目为Git培训项目，包括clone, add, commit, fetch, push, checkout, rebase, reset等操作。
 
 
-
+相关操作和说明可以看廖雪峰的Git教程。
 
 新同学按照如下要求完成动作。
+
+0. 安装git
+
+参考：https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496
 
 1. **配置SSH Key**
 
